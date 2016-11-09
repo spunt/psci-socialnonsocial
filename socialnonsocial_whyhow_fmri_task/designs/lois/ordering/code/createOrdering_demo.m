@@ -2,7 +2,7 @@
 clear all
 basedir = pwd;
 stimdatadir = [basedir filesep 'stimdata'];
-stimdir = ['/Users/bobspunt/Desktop/Dropbox/Bob/Research/Caltech/whyhow/tasks/fmri/stimuli/lois_demo'];
+stimdir = ['/Users/bobspunt/Drive/Research/Caltech/whyhow/tasks/fmri/stimuli/lois_demo'];
 
 % save?
 FLAG = 1;
@@ -133,3 +133,7 @@ end
     
 
 
+ 
+ 
+ 
+ 
